@@ -31,4 +31,4 @@ Species of flower are setosa,versicolor,verginica.
 Hence by using the given parameters we analyse the data, to get any parameter or combinations of parameters which identifies a particular species.
 This help to identify the species of flower if any new flower is given to us and told to identify its species.
 
-### Links to understand concepts much better are given inside the file.
+### Links to understand concepts much better are given inside the EDA file.
